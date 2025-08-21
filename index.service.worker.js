@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1755790603|15307595510';
+const CACHE_VERSION = '1755791017|15721577424';
 /** @type {string} */
 const CACHE_PREFIX = 'ヴィヴィスタック-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
